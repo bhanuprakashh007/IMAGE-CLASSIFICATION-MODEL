@@ -56,3 +56,5 @@ Integrated image selection and classification result display functionality.
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/5edae596-fd39-40dd-9c29-ed37a795e983)
+![Image](https://github.com/user-attachments/assets/9cbcd8fe-1ef1-4c56-85bb-4e409f3a87c9)
