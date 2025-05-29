@@ -53,3 +53,6 @@ Created a user-friendly desktop interface using Tkinter.
 
 Integrated image selection and classification result display functionality.
 ##
+
+#OUTPUT:
+
